@@ -22,10 +22,12 @@ description: A 2D side scrolling action game.
 + Iterate upon player feedback to create a balanced experience
 
 ##### Summary
-For this project, I was the lead designer and programmer in a group of 9. Specifically, I created and balanced the combat mechanics and controls, while overseeing the project. 
+For this project, I was the lead designer and programmer in a group of 9. Specifically, I created and balanced the combat system and controls, while also overseeing the project's direction.
 
-It was my first time being in charge of so many people. While I made a lot of mistakes, I learned a lot about communication, 
+This was my first experience of being in charge of a team of that scale. While I made a lot of mistakes, I learned a lot about working in teams and directing my groupmates towards a singular vision.
+
+The project also ran into production issues, especially with the art, which forced me to cut the game down to it's core mechanics. While it didn't turn out to be everything I hoped for, I took many of the lessons I learned into future projects.
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://github.com/NathanWang00/Thief-of-Time" text="Github" %}
 </p>
