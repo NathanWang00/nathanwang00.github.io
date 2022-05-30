@@ -12,7 +12,7 @@ description: A 2D side scrolling action game.
 
 ##### Production Details
 + 2D action platformer made in Unity
-+ 10 weeks
++ 10 weeks on top of other classwork
 + Group of 9 (1 Producer, 2 Designers/Progammers, 2 Programmers, 3 Aritsts, 1 Sound Designer)
 
 ##### My Goals
