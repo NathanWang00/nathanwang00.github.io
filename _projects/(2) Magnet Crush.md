@@ -2,7 +2,7 @@
 name: Magnet Crush
 tools: [Sole Dev]
 image: https://cdn.discordapp.com/attachments/980350116735107132/980704976391270400/Magnet_Crush.gif
-description: A simple 2D action game designed for mobile and PC.
+description: A small and simple action game about magnetizing objects.
 ---
 
 # Magnet Crush

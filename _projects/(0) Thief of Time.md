@@ -2,7 +2,7 @@
 name: Thief of Time
 tools: [Lead Designer, Lead Programmer]
 image: https://cdn.discordapp.com/attachments/980350116735107132/980351082528145408/game_title.png
-description: A 2D side scrolling action game.
+description: Control time in a 2D action platformer.
 ---
 
 # Thief of Time
