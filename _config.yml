@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Nathan Wang
 description         : >-
-                      Aspiring game designer
-#                      use tabs over spaces
-#                      and never broke production.
+                      UCSC Graduate (Almost) in Games and Playable Media
+                      Previous Associate Game Designer at 2CGaming
+                      Familiar with Technical and Experiential Design
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : NathanWang00/NathanWang00.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
