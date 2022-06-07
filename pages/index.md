@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+permalink: /landing/
 ---
 
 {% include landing.html %}
