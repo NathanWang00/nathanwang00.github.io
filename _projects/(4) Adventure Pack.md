@@ -16,7 +16,7 @@ description: Compete against your friends to assemble the best pack of gear firs
 + *Team size:* 2 designers
 
 ##### Overview
-*Adventure Pack* is a concept design for a casual card game about assembling the best pack of equipment before your friends. Each player has their own class which allows them to acquire items in different ways. The game is designed for tabletop RPG players and is even compatible with DnD 5e where it can be used to divide gear and rewards during a campaign.
+*Adventure Pack* is a concept design for a casual card game about assembling the best pack of equipment before your friends. Each player has their own class which allows them to acquire items in different ways. The game is designed for tabletop RPG players and is even compatible with D&D 5e where it can be used to divide gear and rewards during a campaign.
 
 During this project, I worked under 2CGaming designer Celeste Conowitch to expand on her initial concept and create the gameplay systems and mechanics.
 

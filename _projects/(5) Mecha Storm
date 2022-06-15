@@ -17,7 +17,7 @@ description: Ascend the tower and fight swarms of robots in this vertical shmup.
 + *Engine and Language:* Phaser, JavaScript
 
 ##### Overview
-*Mecha Storm* is a bullet hell about overcoming waves of enemies through tight dodging and resource management. The player is equipped with a short range sword and an ammo limited gun, in addition to a unique powerup system. The enemies also have their own behaviours and shot patterns, with the boss even having two unique stages.
+*Mecha Storm* is a bullet hell about overcoming waves of enemies through tight dodging and resource management. The player is equipped with a short range sword and an ammo limited gun, in addition to a unique powerup system. The enemies also have their own behaviors and shot patterns, with the boss even having two unique stages.
 
 During development, my role was both the lead designer and programmer. I mainly designed the resource systems, the enemy wave layout, the player mechanics, and oversaw the direction for the artists. I also programmed the game using Phaser, a JavaScript based game framework designed for browsers.
 

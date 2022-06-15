@@ -17,7 +17,7 @@ description: Slash and dodge your way through in a 2D action game.
 + *Engine and Language:* Unity, C#
 
 ##### Overview
-*Egg Knight* is a short and simple *Punch-Out!!!* and *Infinity Blade* inspired action game. The player has multiple offensive and defensive options which can be performed via touch controls or mouse. For example, if the player taps on an enemy they do a stabbing attack, while if they swipe their character they do a dodge. The game also features a few enemies with unique behaviours and timings.
+*Egg Knight* is a short and simple *Punch-Out!!!* and *Infinity Blade* inspired action game. The player has multiple offensive and defensive options which can be performed via touch controls or mouse. For example, if the player taps on an enemy they do a stabbing attack, while if they swipe their character they do a dodge. The game also features a few enemies with unique behaviors and timings.
 
 For this game, I did everything from the input system, to the enemy designs, to the art and animations. The music, sound effects, and the audio implementation code which were obtained from various royalty free sources.
 
