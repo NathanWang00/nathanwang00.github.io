@@ -11,7 +11,7 @@ description: A small arcade game about magnetizing objects.
 ![gameplay](https://cdn.discordapp.com/attachments/980350116735107132/980704865271574558/Magnet_Crush_2.gif)
 
 ##### Production Details
-+ *Genre:* Top-down 2D arcade action
++ *Genre:* Arcade action
 + *Time Spent:* 20~ hours
 + *Platform:* Browser
 + *Engine and Language:* CrispGameLib, JavaScript

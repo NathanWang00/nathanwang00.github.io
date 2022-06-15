@@ -24,7 +24,7 @@ description: Create drugs and change the world in a story-based puzzle game.
 *Take as Needed* is a near future puzzle and visual novel game. The player works as a scientist at a pharmaceutical company whose actions can influence the world around them. The game also explores themes of addiction, mental health, and stress. 
 Additionally, the project was funded by a research grant where we looked into innovative and more appropriate ways into portraying mental health in video games.
 
-In this project, I was a designer and programmer. My main role was developing the puzzle/drug mechanics. For example, creating the price and volatility system, designing the chemical connections, and programming the controls.
+In this project, I worked as a designer and a programmer. My main role was developing the mechanics of the drug creation portion. For example, creating the price and volatility system, designing the chemical connections, and programming the controls.
 
 <p class="text-center">
 {% include elements/button.html link="https://store.steampowered.com/app/1780110/Take_As_Needed/" text="Steam" %}
