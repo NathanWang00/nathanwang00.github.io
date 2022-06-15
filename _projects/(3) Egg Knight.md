@@ -1,7 +1,7 @@
 ---
 name: Egg Knight
 tools: [Sole Developer]
-image: https://cdn.discordapp.com/attachments/980350116735107132/980631354372931627/Capture.PNG
+image: https://cdn.discordapp.com/attachments/829140014243774519/986461112121843792/showcase.gif
 description: Slash and dodge your way through in a 2D action game.
 ---
 
