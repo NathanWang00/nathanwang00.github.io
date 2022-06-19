@@ -2,7 +2,7 @@
 name: Magnet Crush
 tools: [Sole Dev]
 image: https://cdn.discordapp.com/attachments/980350116735107132/980704976391270400/Magnet_Crush.gif
-description: A small arcade game about magnetizing objects.
+description: Magnetize objects and take down enemies in this arcade action game.
 ---
 
 # Magnet Crush
