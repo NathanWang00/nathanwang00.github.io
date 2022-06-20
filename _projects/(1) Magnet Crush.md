@@ -1,6 +1,6 @@
 ---
 name: Magnet Crush
-tools: [Sole Dev]
+tools: [Sole Developer]
 image: https://cdn.discordapp.com/attachments/980350116735107132/980704976391270400/Magnet_Crush.gif
 description: Magnetize objects and take down enemies in this arcade action game.
 ---
@@ -13,6 +13,7 @@ description: Magnetize objects and take down enemies in this arcade action game.
 ##### Production Details
 + *Genre:* Arcade action
 + *Time Spent:* 20~ hours
++ *Role:* Sole developer
 + *Platform:* Browser
 + *Engine and Language:* CrispGameLib, JavaScript
 

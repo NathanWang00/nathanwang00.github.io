@@ -13,6 +13,7 @@ description: Slash and dodge your way through in a 2D action game.
 ##### Production Details
 + *Genre:* 2D action
 + *Time Spent:* 50~ hours
++ *Role:* Sole developer
 + *Platform:* Browser and Android
 + *Engine and Language:* Unity, C#
 

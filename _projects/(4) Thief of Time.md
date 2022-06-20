@@ -13,6 +13,7 @@ description: Control time in a 2D action platformer.
 ##### Production Details
 + *Genre:* 2D action platformer
 + *Time Spent:* 130~ hours
++ *Role:* Lead designer and lead programmer
 + *Team size:* 9 (1 Producer, 2 Designers, 2 Programmers, 3 Artists, 1 Sound Designer)
 + *Engine and Language:* Unity, C#
 

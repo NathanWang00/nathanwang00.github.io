@@ -13,6 +13,7 @@ description: Compete against your friends to assemble the best pack of gear firs
 ##### Production Details
 + *Genre:* Multiplayer card game
 + *Time Spent:* 40~ hours
++ *Role:* Designer
 + *Team size:* 2 designers
 
 ##### Overview

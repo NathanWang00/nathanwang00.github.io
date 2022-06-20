@@ -17,6 +17,7 @@ description: Create drugs and change the world in a story-based puzzle game.
 ##### Production Details
 + *Genre:* Story-driven pharmaceutical puzzler
 + *Development Time:* 6 months
++ *Role:* Design and programming
 + *Team size:* 10 (1 Director/Composer, 2 Writers, 4 Designers/Programmers, 3 Artists)
 + *Engine and Language:* Unity, C#
 

@@ -13,6 +13,7 @@ description: Ascend the tower and fight swarms of robots in this vertical shmup.
 ##### Production Details
 + *Genre:* Vertical shoot'em up
 + *Time Spent:* 75~ hours
++ *Role:* Lead designer and programmer
 + *Team size:* 4 (1 designer/programmer, 3 artists)
 + *Engine and Language:* Phaser, JavaScript
 
