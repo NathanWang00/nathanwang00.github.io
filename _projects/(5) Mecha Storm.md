@@ -2,7 +2,7 @@
 name: Mecha Storm
 tools: [Lead Designer, Programmer]
 image: https://cdn.discordapp.com/attachments/829140014243774519/986462081387724830/mecha_storm.gif
-description: Ascend the tower and fight swarms of robots in this vertical shmup.
+description: Ascend the tower and fight swarms of robots in this vertical shmup
 ---
 
 # Mecha Storm

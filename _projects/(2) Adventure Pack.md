@@ -2,7 +2,7 @@
 name: Adventure Pack
 tools: [Designer]
 image: https://cdn.discordapp.com/attachments/829140014243774519/986453607027187712/InitialDesign2.png
-description: Compete against your friends to assemble the best pack of gear first.
+description: Compete against your friends to assemble the best pack of gear first
 ---
 
 # Adventure Pack

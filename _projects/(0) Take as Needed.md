@@ -2,7 +2,7 @@
 name: Take as Needed
 tools: [Designer, Programmer]
 image: https://cdn.akamai.steamstatic.com/steam/apps/1780110/extras/titlescreen.gif?t=1637552337
-description: Create drugs and change the world in a story-based puzzle game.
+description: Create drugs and change the world in a story-based puzzle game
 ---
 
 # Take as Needed
