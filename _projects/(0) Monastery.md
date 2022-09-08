@@ -23,5 +23,5 @@ description: Explore a mysterious alien planet in a top-down action platformer
 My role in this project was the lead designer and level designer. I was mainly responsible for planning the combat and platforming systems, tuning the combat and player controls, creating and maintaining documentation, designing and iterating upon the level, running playtests, and overseeing the game's general vision.
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/amtishler/2022SummerFrogGame" text="Itch.io page in progress" %}
+{% include elements/button.html link="https://chromeleon-games.itch.io/monastery" text="Itch.io Page" %}
 </p>
