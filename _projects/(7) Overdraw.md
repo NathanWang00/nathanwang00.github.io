@@ -23,5 +23,5 @@ description: Shoot down waves of enemies in a 2D arcade action game
 For this project I was the sole developer, meaning that I did everything from combat, to enemy design, to UI and animation. *Overdraw* was one of the first games that I've made, and it was developed mainly within Construct 3.
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/file/d/1S6QnbcgIXh5pa-WldvR7bldErw-uU0Gc/view?usp=sharing" text="Mobile APK Download" %}
+{% include elements/button.html link="https://drive.google.com/file/d/1S6QnbcgIXh5pa-WldvR7bldErw-uU0Gc/view?usp=sharing" style="primary" text="Mobile APK Download" %}
 </p>

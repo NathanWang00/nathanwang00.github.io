@@ -35,5 +35,5 @@ One of my smaller projects, but I liked the simplicity and cohesion within the d
 --->
 
 <p class="text-center">
-{% include elements/button.html link="https://nathanwang00.github.io/Magnet-Crush/?magnetcrush/" text="Play" %}
+{% include elements/button.html link="https://nathanwang00.github.io/Magnet-Crush/?magnetcrush/" style="primary" text="Play" %}
 </p>

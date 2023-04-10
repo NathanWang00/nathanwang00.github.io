@@ -2,25 +2,24 @@
 name: Egg Knight
 tools: [Sole Developer]
 image: https://cdn.discordapp.com/attachments/829140014243774519/986461112121843792/showcase.gif
-description: Slash and dodge your way through in a 2D action game
+description: Engage in 2D action gameplay by slashing and dodging.
 ---
 
 # Egg Knight
-###### Sole Developer
+###### 2D action
 
 ![gameplay](https://cdn.discordapp.com/attachments/980350116735107132/980638143420198952/Capture.gif)
 
 ##### Production Details
-+ *Genre:* 2D action
-+ *Time Spent:* 50~ hours
-+ *Role:* Sole developer
-+ *Platform:* Browser and Android
-+ *Engine and Language:* Unity, C#
++ Role: **Sole developer**
++ Tools: **Unity, C#**
++ Platform: **Browser and Android**
+
 
 ##### Overview
-*Egg Knight* is a short and simple *Punch-Out!!!* and *Infinity Blade* inspired action game. The player has multiple offensive and defensive options which can be performed via touch controls or mouse. For example, if the player taps on an enemy they do a stabbing attack, while if they swipe their character they do a dodge. The game also features a few enemies with unique behaviors and timings.
+*Egg Knight* is a fast-paced action game that draws inspiration from *Punch-Out!!!* and *Infinity Blade*. With intuitive touch controls or mouse input, players can execute multiple offensive and defensive maneuvers, such as stabbing attacks and dodges. The game also features unique enemies with different behaviors and timings to keep players engaged.
 
-For this game, I did everything from the input system, to the enemy designs, to the art and animations. The music, sound effects, and the audio implementation code which were obtained from various royalty free sources.
+As the sole developer on this project, I handled every aspect of the game's development, from the input system and enemy designs to the art and animations. While I obtained the music, sound effects, and audio implementation code from various royalty-free sources, I tried to ensure that they fit seamlessly into the game's overall aesthetic.
 
 <!---
 ##### My Goals
@@ -37,5 +36,5 @@ Also, throughout the project, I learned that I sometimes focus too much on the m
 
 
 <p class="text-center">
-{% include elements/button.html link="https://nathanwang00.github.io/Egg-Knight/" text="Play" %}
+{% include elements/button.html link="https://nathanwang00.github.io/Egg-Knight/" style="primary" text="Play" %}
 </p>

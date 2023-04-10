@@ -6,7 +6,7 @@ description: Create drugs and change the world in a story-based puzzle game
 ---
 
 # Take as Needed
-###### Design & Programming
+###### Story-driven pharmaceutical puzzler
 
 <center>
 <video muted autoplay controls loop width="700" height="393">
@@ -15,18 +15,15 @@ description: Create drugs and change the world in a story-based puzzle game
 </center>
 
 ##### Production Details
-+ *Genre:* Story-driven pharmaceutical puzzler
-+ *Development Time:* 6 months
-+ *Role:* Design and programming
-+ *Team size:* 10 (1 Director/Composer, 2 Writers, 4 Designers/Programmers, 3 Artists)
-+ *Engine and Language:* Unity, C#
++ Role: **Design and programming**
++ Tools: **Unity, C#, Git, Visual Studio**
++ Team size: **10**
 
 ##### Overview
-*Take as Needed* is a near future puzzle and visual novel game. The player works as a scientist at a pharmaceutical company whose actions can influence the world around them. The game also explores themes of addiction, mental health, and stress. 
-Additionally, the project was funded by a research grant where we looked into innovative and more appropriate ways into portraying mental health in video games.
+*Take as Needed* is a puzzle and visual novel game set in the near future that explores complex themes such as addiction, mental health, and stress. As a scientist at a pharmaceutical company, the player's decisions have far-reaching consequences in the world they inhabit. The game's development was funded by a research grant, allowing us to explore innovative and sensitive ways of portraying mental health in video games.
 
-In this project, I worked as a designer and a programmer. My main role was developing the mechanics of the drug creation portion. For example, creating the price and volatility system, designing the chemical connections, and programming the controls. The game was developed using Unity and the code was written in C#.
+As a designer and programmer, my key responsibility was to develop the drug creation mechanics. This included creating a dynamic pricing and volatility system, designing chemical connections, programming intuitive controls, and implementing the UI. The game was developed using Unity and written in C#.
 
 <p class="text-center">
-{% include elements/button.html link="https://store.steampowered.com/app/1780110/Take_As_Needed/" text="Steam" %}
+{% include elements/button.html link="https://store.steampowered.com/app/1780110/Take_As_Needed/" style="primary" text="Steam page" %}
 </p>

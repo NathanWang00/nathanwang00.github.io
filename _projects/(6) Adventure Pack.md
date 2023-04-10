@@ -26,6 +26,6 @@ During this project, I worked under 2CGaming designer Celeste Conowitch to expan
 {% include elements/figure.html image="https://cdn.discordapp.com/attachments/829140014243774519/986148521956765716/ClassExample.png" caption="Action System" width="400" %}
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/file/d/1xW9UuM_wBzCXymdx8FYRvMtiJz3DIDK6/view?usp=sharing" text="Full PDF" %}
+{% include elements/button.html link="https://drive.google.com/file/d/1xW9UuM_wBzCXymdx8FYRvMtiJz3DIDK6/view?usp=sharing" style="primary" text="Full PDF" %}
 </p>
 

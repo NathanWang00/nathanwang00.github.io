@@ -6,22 +6,43 @@ description: Explore a mysterious alien planet in a top-down action platformer
 ---
 
 # Monastery
-###### Lead design
+###### Top-down action platformer
 
-![gameplay](https://files.catbox.moe/6ov2h6.gif)
+![Monastery Screenshot](/assets/MonasteryMain.png)
 
 ##### Production Details
-+ *Genre:* Top-down action platformer
-+ *Development Time:* 13 weeks
-+ *Role:* Lead designer and level designer
-+ *Team size:* 12 (1 Lead Designer, 1 Producer, 3 Programmers, 4 Artists, 1 Writer, 1 Audio Designer, 1 UI Designer)
-+ *Engine and Language:* Unity, C#
++ Role: __Lead designer and level designer__
++ Tools: **Unity, C#, Git, Visual Studio, Tiled**
++ Team size: **12**
 
 ##### Overview
-*Monastery* is an adventure story game about exploring an alien planet and fighting corrupted enemies. The game features a unique tongue mechanic which the player can use to grab enemies and grapple to walls.
+*Monastery* is an action adventure game about exploring an alien planet and fighting corrupted enemies. The game features a unique tongue mechanic which the player can use to grab enemies and grapple to walls.
 
-My role in this project was the lead designer and level designer. I was mainly responsible for planning the combat and platforming systems, tuning the combat and player controls, creating and maintaining documentation, designing and iterating upon the level, running playtests, and overseeing the game's general vision.
+My role in this project was the lead designer and level designer. It was my first time working as a lead designer in a team of that size, and I was able to learn a lot about communication and team management. I'm very proud of what the team was able to accomplish in our 3 month timeframe, especially since we had some outside production issues.
+
+___
+
+##### Tiled Level
+
+{% capture carousel_images %}
+
+/assets/LevelPrototype1+BG.PNG
+/assets/LevelPrototype2+Caption.PNG 
+/assets/FinalLevelPart1+BG.PNG
+/assets/FinalLevelPart2+BG.PNG
+
+{% endcapture %}
+{% include elements/carousel.html %}
+
+These are some of the different stages the level went through over the course of the project. I used Tiled to create the layout of the level and automatically map the background sprites. After that, the level tilemap is exported to Unity, where the characters and objects are placed.
+
+In the first prototype, the player had a jump that they could charge to jump over gaps. The initial plan was to focus on the frog's mechanical legs, which included an energy system and upgrades. However, after the playtest, the game was reworked to cut extraneous mechanics and to focus more on the combat. These changes included the jump being replaced by the tongue grapple and the kick changing into a heavy attack. 
+
+___
+##### Storyboard
+![Storyboard Table](/assets/Storyboard.PNG)
+One of my tasks as the lead designer was to block out the primary sequence of events and coordinate with the producer so people knew what tasks they needed to prioritize. I also used the storyboard to control the progression of the gameplay and story events in order to achieve good pacing.
 
 <p class="text-center">
-{% include elements/button.html link="https://chromeleon-games.itch.io/monastery" text="Itch.io Page" %}
+{% include elements/button.html link="https://chromeleon-games.itch.io/monastery" style="primary" text="Itch.io Page" %}
 </p>

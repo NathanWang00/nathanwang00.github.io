@@ -28,6 +28,6 @@ For this adaptation, my main role was developing the combat system, creating the
 {% include elements/figure.html image="https://cdn.discordapp.com/attachments/829140014243774519/1013266324992045126/cards.PNG" caption="Card Examples" width="375" %}
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/file/d/1VXxU_-3i73EYewPwASUZbg79A-9WNYjM/view?usp=sharing" text="Rules and Documentation" %}
+{% include elements/button.html link="https://drive.google.com/file/d/1VXxU_-3i73EYewPwASUZbg79A-9WNYjM/view?usp=sharing" style="primary" text="Rules and Documentation" %}
 </p>
 

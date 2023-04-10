@@ -23,5 +23,5 @@ description: Ascend the tower and fight swarms of robots in a vertical shmup
 During development, my role was both the lead designer and programmer. I mainly designed the resource systems, the enemy wave layout, the player mechanics, and oversaw the direction for the artists. I also programmed the game using Phaser, a JavaScript based game framework designed for browsers.
 
 <p class="text-center">
-{% include elements/button.html link="https://nathanwang00.github.io/Mecha-Storm/" text="Play" %}
+{% include elements/button.html link="https://nathanwang00.github.io/Mecha-Storm/" style="primary" text="Play" %}
 </p>
