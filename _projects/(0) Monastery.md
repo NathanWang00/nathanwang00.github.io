@@ -26,12 +26,10 @@ ___
 ##### Tiled Level
 
 {% capture carousel_images %}
-
-/assets/LevelPrototype1+BG.PNG
-/assets/LevelPrototype2+Caption.PNG 
-/assets/FinalLevelPart1+BG.PNG
-/assets/FinalLevelPart2+BG.PNG
-
+https://cdn.discordapp.com/attachments/829140014243774519/1096498976993316935/LevelPrototype1BG.png
+https://cdn.discordapp.com/attachments/829140014243774519/1096498976297062510/LevelPrototype2Caption.PNG
+https://cdn.discordapp.com/attachments/829140014243774519/1096498976515162152/FinalLevelPart1BG.png
+https://cdn.discordapp.com/attachments/829140014243774519/1096498976758448260/FinalLevelPart2BG.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
