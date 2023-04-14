@@ -6,21 +6,20 @@ description: Ascend the tower and fight swarms of robots in a vertical shmup
 ---
 
 # Mecha Storm
-###### Design & Programming
+###### Vertical shoot'em up
 
 ![gameplay](https://cdn.discordapp.com/attachments/829140014243774519/986485717196759050/mecha_storm_boss.gif)
 
 ##### Production Details
-+ *Genre:* Vertical shoot'em up
-+ *Time Spent:* 75~ hours
-+ *Role:* Lead designer and programmer
-+ *Team size:* 4 (1 Designer/Programmer, 3 Artists)
-+ *Engine and Language:* Phaser, JavaScript
++ Role: **Lead designer and lead programmer**
++ Engine and Language: **Phaser, JavaScript**
++ Team size: **4**
++ Platform: **Browser**
 
 ##### Overview
-*Mecha Storm* is a bullet hell about overcoming waves of enemies through tight dodging and resource management. The player is equipped with a short range sword and an ammo limited gun, in addition to a unique powerup system. The enemies also have their own behaviors and shot patterns, with the boss even having two unique stages.
+*Mecha Storm* is a challenging bullet hell game where players must strategically dodge waves of enemies while managing limited resources. Armed with a short-range sword and gun, players must use a unique power-up system to overcome increasingly difficult challenges, including a two-stage boss battle. 
 
-During development, my role was both the lead designer and programmer. I mainly designed the resource systems, the enemy wave layout, the player mechanics, and oversaw the direction for the artists. I also programmed the game using Phaser, a JavaScript based game framework designed for browsers.
+As both lead designer and programmer, I was responsible for creating the game's resource systems, enemy wave layout, and player mechanics, as well as providing direction for the art team. Mecha Storm was programmed using Phaser, a JavaScript-based game framework designed for use in web browsers.
 
 <p class="text-center">
 {% include elements/button.html link="https://nathanwang00.github.io/Mecha-Storm/" style="primary" text="Play" %}

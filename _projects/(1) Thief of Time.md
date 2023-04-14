@@ -14,6 +14,7 @@ description: Control time and combo enemies in a 2D action platformer
 + Role: **Lead designer and lead programmer**
 + Tools: **Unity, C#, Git, Visual Studio, Jira**
 + Team size: **9**
++ Platform: **Windows**
 
 ##### Overview
 *Thief of Time* is a fast paced 2D game that puts a unique twist on combat mechanics by incorporating time manipulation. Players juggle enemies and use various attacks, each executed by holding different movement controls and pressing light or heavy attack buttons. Moreover, the game allows players to freeze time, creating an opportunity for creative combos and maneuvers.

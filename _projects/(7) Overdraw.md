@@ -6,21 +6,20 @@ description: Shoot down waves of enemies in a 2D arcade action game
 ---
 
 # Overdraw
-###### Sole Dev
+###### 2D Arcade action
 
 ![gameplay](https://cdn.discordapp.com/attachments/829140014243774519/1012206657612288080/overdrawsmall.gif)
 
 ##### Production Details
-+ *Genre:* Arcade action
-+ *Time Spent:* 4 months
-+ *Role:* Sole developer
-+ *Platform:* Mobile
-+ *Engine:* Construct
++ Role: **Sole developer**
++ Tools: **Construct**
++ Team size: **1**
++ Platform: **Mobile**
 
 ##### Overview
-*Overdraw* is a tap and shoot action game developed for mobile devices. The player uses a bow to defend against waves of different enemies, while trying to increase their score and combo meter.
+*Overdraw* is an engaging arcade action game designed for mobile devices, where players use a bow to defend against various waves of enemies while striving to increase their score and combo meter. 
 
-For this project I was the sole developer, meaning that I did everything from combat, to enemy design, to UI and animation. *Overdraw* was one of the first games that I've made, and it was developed mainly within Construct 3.
+As the sole developer, I worked on every aspect of the game, including enemy design, UI, combat mechanics, and animation. Construct 3 was the primary tool used to develop the game, making Overdraw one of my earliest game projects.
 
 <p class="text-center">
 {% include elements/button.html link="https://drive.google.com/file/d/1S6QnbcgIXh5pa-WldvR7bldErw-uU0Gc/view?usp=sharing" style="primary" text="Mobile APK Download" %}

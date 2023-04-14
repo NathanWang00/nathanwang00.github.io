@@ -13,6 +13,7 @@ description: Engage in 2D action gameplay by slashing and dodging.
 ##### Production Details
 + Role: **Sole developer**
 + Tools: **Unity, C#**
++ Team size: **1**
 + Platform: **Browser and Android**
 
 

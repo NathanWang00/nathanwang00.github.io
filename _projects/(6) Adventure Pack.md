@@ -6,20 +6,18 @@ description: Compete against your friends to assemble the best pack of gear firs
 ---
 
 # Adventure Pack
-###### Design
+###### Multiplayer DnD card game
 
 ![pdf snippet](https://cdn.discordapp.com/attachments/829140014243774519/985769674228772874/Capture.PNG)
 
 ##### Production Details
-+ *Genre:* Multiplayer card game
-+ *Time Spent:* 40~ hours
-+ *Role:* Designer
-+ *Team size:* 2 designers
++ Role: **Designer**
++ Team size: **2**
 
 ##### Overview
-*Adventure Pack* is a concept design for a casual card game about assembling the best pack of equipment before your friends. Each player has their own class which allows them to acquire items in different ways. The game is designed for tabletop RPG players and is even compatible with D&D 5e where it can be used to divide gear and rewards during a campaign.
+*Adventure Pack* is a concept design for a casual card game that challenges players to assemble the ultimate pack of equipment before their friends. The game is tailored for tabletop RPG enthusiasts and can even be used in D&D 5e campaigns to divide gear and rewards.
 
-During this project, I worked under 2CGaming designer Celeste Conowitch to expand on her initial concept and create the gameplay systems and mechanics.
+As a key contributor to this project, I worked closely with 2CGaming designer Celeste Conowitch to expand on her original concept and develop engaging gameplay systems and mechanics.
 
 {% include elements/figure.html image="https://cdn.discordapp.com/attachments/829140014243774519/986148521675739197/BasicGoal.png" caption="Basic Gameplay Loop" width="500" %}
 

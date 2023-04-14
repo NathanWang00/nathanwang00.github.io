@@ -11,9 +11,10 @@ description: Explore a mysterious alien planet in a top-down action platformer
 ![Monastery Screenshot](/assets/MonasteryMain.png)
 
 ##### Production Details
-+ Role: __Lead designer and level designer__
++ Role: **Lead designer and level designer**
 + Tools: **Unity, C#, Git, Visual Studio, Tiled**
 + Team size: **12**
++ Platform: **Windows and Mac**
 
 ##### Overview
 *Monastery* is an action adventure game about exploring an alien planet and fighting corrupted enemies. The game features a unique tongue mechanic which the player can use to grab enemies and grapple to walls.

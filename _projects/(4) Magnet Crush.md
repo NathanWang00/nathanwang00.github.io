@@ -6,21 +6,20 @@ description: Magnetize objects and take down enemies in a arcade action game
 ---
 
 # Magnet Crush
-###### Sole Dev
+###### Arcade action
 
 ![gameplay](https://cdn.discordapp.com/attachments/980350116735107132/980704865271574558/Magnet_Crush_2.gif)
 
 ##### Production Details
-+ *Genre:* Arcade action
-+ *Time Spent:* 20~ hours
-+ *Role:* Sole developer
-+ *Platform:* Browser
-+ *Engine and Language:* CrispGameLib, JavaScript
++ Role: **Sole developer**
++ Tools: **CrispGameLib, JavaScript**
++ Team size: **1**
++ Platform: **Browser**
 
 ##### Overview
-*Magnet Crush* is a one-button action arcade game about magnetizing and shooting debris. Since the only input is the mouse, every action has multiple uses. For instance, magnetizing debris acts as a shield against enemy shots and firing debris can also be used for movement. The game also has a score feature to allow for replayability.
+*Magnet Crush* is a one-button action arcade game that allows players to magnetize and shoot debris. With only the mouse as input, every action has multiple uses - magnetizing debris serves as a shield against enemy shots, while firing debris can be used for movement. The game also features a score system, encouraging replayability.
 
-As the sole developer for this project, I did the mechanics design, programming and the sprites myself. The code was primarily written in Javascript and used the game library, CrispGameLib.
+As the sole developer for this project, I did the mechanics design, programming and the sprites myself. The code was primarily written in Javascript and utilized the game library, CrispGameLib.
 
 {% include elements/figure.html image="https://cdn.discordapp.com/attachments/980350116735107132/980704865481265192/Magnet_Crush_Prototype.gif" caption="Early experimentation with object pulling" %}
 
