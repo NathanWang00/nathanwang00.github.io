@@ -1,7 +1,7 @@
 ---
 name: Monastery
 tools: [Lead Designer]
-image: https://cdn.discordapp.com/attachments/829140014243774519/1012963955007815690/MonasteryGameplay.gif
+image: /assets/MonasteryGameplay.gif
 description: Explore a mysterious alien planet in a top-down action platformer
 ---
 
@@ -23,13 +23,15 @@ My role in this project was the lead designer and level designer. It was my firs
 
 ___
 
-##### Tiled Level
+##### Tiled Levels
 
 {% capture carousel_images %}
-https://cdn.discordapp.com/attachments/829140014243774519/1096498976993316935/LevelPrototype1BG.png
-https://cdn.discordapp.com/attachments/829140014243774519/1096498976297062510/LevelPrototype2Caption.PNG
-https://cdn.discordapp.com/attachments/829140014243774519/1096498976515162152/FinalLevelPart1BG.png
-https://cdn.discordapp.com/attachments/829140014243774519/1096498976758448260/FinalLevelPart2BG.png
+
+/assets/LevelPrototype1BG.png
+/assets/LevelPrototype2Caption.PNG
+/assets/FinalLevelPart1BG.png
+/assets/FinalLevelPart2BG.png
+
 {% endcapture %}
 {% include elements/carousel.html %}
 

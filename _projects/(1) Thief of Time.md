@@ -1,14 +1,14 @@
 ---
 name: Thief of Time
 tools: [Lead Designer, Lead Programmer]
-image: https://cdn.discordapp.com/attachments/980350116735107132/980351082528145408/game_title.png
+image: /assets/game title.png
 description: Control time and combo enemies in a 2D action platformer
 ---
 
 # Thief of Time
 ###### 2D action platformer
 
-![gameplay](https://cdn.discordapp.com/attachments/980350116735107132/980380206533595166/gameplay.gif)
+![gameplay](/assets/gameplay.gif)
 
 ##### Production Details
 + Role: **Lead designer and lead programmer**

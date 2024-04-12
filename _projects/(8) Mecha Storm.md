@@ -1,14 +1,14 @@
 ---
 name: Mecha Storm
 tools: [Lead Designer, Programmer]
-image: https://cdn.discordapp.com/attachments/829140014243774519/986462081387724830/mecha_storm.gif
+image: /assets/mecha_storm.gif
 description: Ascend the tower and fight swarms of robots in a vertical shmup
 ---
 
 # Mecha Storm
 ###### Vertical shoot'em up
 
-![gameplay](https://cdn.discordapp.com/attachments/829140014243774519/986485717196759050/mecha_storm_boss.gif)
+![gameplay](/assets/mecha_storm_boss.gif)
 
 ##### Production Details
 + Role: **Lead designer and lead programmer**

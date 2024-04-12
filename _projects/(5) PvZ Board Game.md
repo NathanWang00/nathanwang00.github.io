@@ -1,7 +1,7 @@
 ---
 name: PvZ Board Game
 tools: [Systems Designer, Editor]
-image: https://cdn.discordapp.com/attachments/829140014243774519/1012578090351857714/Cover.PNG
+image: /assets/Cover.PNG
 description: Face off in a card game adaptation of Plants vs Zombies 
 ---
 
@@ -23,7 +23,7 @@ This project is a fanmade card game adaptation of the beloved game, *Plants vs Z
 
 As a key contributor to this project, my main responsibility was developing the combat system and creating the rules. Additionally, I played a vital role in organizing the documentation, conducting playtests, and balancing cards. 
 
-{% include elements/figure.html image="https://cdn.discordapp.com/attachments/829140014243774519/1013266324992045126/cards.PNG" caption="Card Examples" width="375" %}
+{% include elements/figure.html image="/assets/cards.PNG" caption="Card Examples" width="375" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://drive.google.com/file/d/1VXxU_-3i73EYewPwASUZbg79A-9WNYjM/view?usp=sharing" style="primary" text="Rules and Documentation" %}

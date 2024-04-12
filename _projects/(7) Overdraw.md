@@ -1,14 +1,14 @@
 ---
 name: Overdraw
 tools: [Sole Developer]
-image: https://cdn.discordapp.com/attachments/829140014243774519/1012190044116766760/Overdraw.gif
+image: /assets/Overdraw.gif
 description: Shoot down waves of enemies in a 2D arcade action game
 ---
 
 # Overdraw
 ###### 2D Arcade action
 
-![gameplay](https://cdn.discordapp.com/attachments/829140014243774519/1012206657612288080/overdrawsmall.gif)
+![gameplay](/assets/overdrawsmall.gif)
 
 ##### Production Details
 + Role: **Sole developer**

@@ -1,14 +1,14 @@
 ---
 name: Magnet Crush
 tools: [Sole Developer]
-image: https://cdn.discordapp.com/attachments/980350116735107132/980704976391270400/Magnet_Crush.gif
+image: /assets/Magnet Crush.gif
 description: Magnetize objects and take down enemies in a arcade action game
 ---
 
 # Magnet Crush
 ###### Arcade action
 
-![gameplay](https://cdn.discordapp.com/attachments/980350116735107132/980704865271574558/Magnet_Crush_2.gif)
+![gameplay](/assets/Magnet Crush 2.gif)
 
 ##### Production Details
 + Role: **Sole developer**
@@ -21,7 +21,7 @@ description: Magnetize objects and take down enemies in a arcade action game
 
 As the sole developer for this project, I did the mechanics design, programming and the sprites myself. The code was primarily written in Javascript and utilized the game library, CrispGameLib.
 
-{% include elements/figure.html image="https://cdn.discordapp.com/attachments/980350116735107132/980704865481265192/Magnet_Crush_Prototype.gif" caption="Early experimentation with object pulling" %}
+{% include elements/figure.html image="/assets/Magnet Crush Prototype.gif" caption="Early experimentation with object pulling" %}
 
 <!---
 ##### My Goals

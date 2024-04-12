@@ -1,14 +1,14 @@
 ---
 name: Egg Knight
 tools: [Sole Developer]
-image: https://cdn.discordapp.com/attachments/829140014243774519/986461112121843792/showcase.gif
+image: /assets/showcase.gif
 description: Engage in 2D action gameplay by slashing and dodging.
 ---
 
 # Egg Knight
 ###### 2D action
 
-![gameplay](https://cdn.discordapp.com/attachments/980350116735107132/980638143420198952/Capture.gif)
+![gameplay](/assets/Capture.gif)
 
 ##### Production Details
 + Role: **Sole developer**
